@@ -7,8 +7,6 @@ plugins:
 
 title: MDW - SNHU - CS-499
 
-description: The information found on this page will present a professional portfolio of updated 
-and improved projects coded for various SNHU computer science courses.  The final result
-will fulfill the requirements for the SNHU Computer Science Capstone course CS-499
+description: Page to contain code modifications made for SNHU Computer Science Capstone - CS-499
 
 show_downloads: false
