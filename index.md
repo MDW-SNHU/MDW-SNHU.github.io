@@ -11,6 +11,6 @@ Updates will come as the course progresses.
 
 The below links point to the original artifact(s) that will be used for the final project
 
-***
+---
 
 <a href="AAC_CRUD_Operations.py.txt">AAC_CRUD_Operations.py</a>
