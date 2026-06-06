@@ -13,7 +13,7 @@ The below link(s) point to the original artifact(s) that will be used for the fi
 
 ---
 
-<a href="https://raw.githubusercontent.com/MDW-SNHU/MDW-SNHU.github.io/main/AAC_CRUD_Operations.py" target="_blank" rel="noopener noreferrer">
+<a href="https://raw.githubusercontent.com/MDW-SNHU/MDW-SNHU.github.io/main/AAC_CRUD_Operations.py" rel="noopener noreferrer">
 AAC_CRUD_Operations.py
 </a>
 
