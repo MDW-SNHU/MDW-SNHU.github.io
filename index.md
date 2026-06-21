@@ -1,30 +1,92 @@
 ---
 layout: default
----
-This site will contain code modified from various projects created during the Computer Science 
-bachelor's program at Southern New Hampshire University (SNHU).
-
-The modifications made are intended to extend the functionality of the original project work,
-in an effort to fulfill the requirements of the Computer Science Capstone course (CS-499).
-
-Updates will come as the course progresses.
-
-The below link(s) point to the original artifact(s) that will be used for the final project
-
+title: CS499 Capstone Portfolio – Mark
 ---
 
-<a href="AAC_CRUD_Operations.txt" target="_blank">AAC_CRUD_Operations.py</a>
+# **CS499 Computer Science Capstone Portfolio**
+Welcome to my capstone portfolio for the Computer Science program at Southern New Hampshire University (SNHU).  
+This site showcases the evolution of my work from earlier coursework into a fully enhanced, production‑ready software artifact.
 
----
-The first update coincides with Milestone 1 in the course, a code review.  The review is an overview of the planned changes in addition to a review of the code from the original artifact that was incorporated into the modifications proposed for the course.  All three course categories used the same initial code artifact, the one available above that was initial created for the first milestone of course CS340 - Client/Server Development.  The artifact provides CRUD (Create/Read/Update/Delete) methods for use in the software application that was delivered for milestone 2.  The enhancements proposed and currently underway provide many new features and expand greatly on the initial CRUD use, to incorporate more methods for database management API for MongoDB.  The code review can be viewed here:
-
-[\[Watch the video on YouTube\]](https://www.youtube.com/watch?v=0MhQrzJqnXc)
-
---------
-The next update is Milestone 2 of the course, which is Enhancement 1: the Software Design and Engineering artifact.  This is a newly created python script that initiates a web-based Swaagger interface that can be used to manage a connected MongoDB data source.  The UI provides an interface into the API functions that are offered in the MongoManager class, then manages authentication, database operations, collection operations, document operations, and a number of additional functions including incorporating the artifact that will be provided with the algorithms and data structures enhancement.  The intent at this point is to provide a medium to view the code rather than to provide an executable version of the entire project, since the updates that follow will be components necessary to execute this one, but once the pieces are available the functionality will be provided.
+The project centers on extending a CRUD‑based Python application into a **full MongoDB management API**, complete with:
+- A FastAPI‑powered Swagger UI
+- A SQL‑to‑Mongo translation engine
+- Authentication and database administration tools
+- Algorithms and data‑structure enhancements
+- Comprehensive testing and documentation
 
 ---
 
-<a href="MongoManager_SwaggerUI.txt" target="_blank">MongoManager_SwaggerUI.py</a>
+## **📂 Project Repository**
+The full project source code is available on GitHub:
+
+👉 **[CS499 Final Project Repository](YOUR_GITHUB_REPO_URL_HERE)**
 
 ---
+
+## **🧩 Original Artifact**
+The foundation for this project originated in CS340 (Client/Server Development), where I built a CRUD interface for MongoDB.
+
+You can view the original artifact here:
+
+- **[AAC_CRUD_Operations.py](AAC_CRUD_Operations.txt)**
+
+---
+
+## **🚀 Enhancement 1 – Software Design & Engineering**
+The first major enhancement was the creation of a **web‑based Swagger UI** that exposes the MongoManager API.  
+This interface supports:
+- Authentication  
+- Database operations  
+- Collection operations  
+- Document CRUD  
+- Integration with the SQL‑to‑Mongo translator  
+
+View the artifact:
+
+- **[MongoManager_SwaggerUI.py](MongoManager_SwaggerUI.txt)**
+
+---
+
+## **🧠 Enhancement 2 – Algorithms & Data Structures**
+This enhancement introduces a SQL‑to‑Mongo translation engine that:
+- Parses SQL‑like input  
+- Converts it into MongoDB query structures  
+- Integrates directly with the Swagger UI  
+
+Artifact:
+
+- **[SQLtoMongo.py](SQLtoMongo.txt)**
+
+---
+
+## **🎥 Milestone 1 – Code Review**
+A full video walkthrough of the original artifact and planned enhancements:
+
+[Watch on YouTube](https://www.youtube.com/watch?v=0MhQrzJqnXc)
+
+---
+
+## **📝 Write‑ups & Documentation**
+Each milestone includes a detailed write‑up describing the design decisions, improvements, and testing strategies.
+
+- [Milestone 1 – Code Review](writeups/milestone1.md)
+- [Milestone 2 – Software Design & Engineering](writeups/milestone2.md)
+- [Milestone 3 – Algorithms & Data Structures](writeups/milestone3.md)
+- [Milestone 4 – Testing & Deployment](writeups/milestone4.md)
+- [Final Reflection](writeups/reflection.md)
+
+---
+
+## **📦 Additional Artifacts**
+All supporting text‑based artifacts used in this project:
+
+- [MongoManager.txt](MongoManager.txt)  
+- [SQLtoMongo.txt](SQLtoMongo.txt)  
+- [AAC_CRUD_Operations.txt](AAC_CRUD_Operations.txt)
+
+---
+
+## **📫 Contact**
+If you have questions about the project or implementation details, feel free to reach out through GitHub.
+
+
