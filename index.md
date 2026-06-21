@@ -72,7 +72,7 @@ Each of the remaining milestones includes a detailed write‑up describing the d
 
 - [Milestone 2 – Software Design & Engineering](writeups/milestone2.md)
 - [Milestone 3 – Algorithms & Data Structures](writeups/milestone3.md)
-- [Milestone 4 – Testing & Deployment](writeups/milestone4.md)
+- [Milestone 4 – Databases](writeups/milestone4.md)
 - [Final Reflection](writeups/reflection.md)
 
 ---
