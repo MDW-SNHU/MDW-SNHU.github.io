@@ -68,9 +68,8 @@ A full video walkthrough of the original artifact and planned enhancements:
 ---
 
 ## ** Write‑ups & Documentation **
-Each milestone includes a detailed write‑up describing the design decisions, improvements, and testing strategies.
+Each of the remaining milestones includes a detailed write‑up describing the design decisions, improvements, and testing strategies.
 
-- [Milestone 1 – Code Review](writeups/milestone1.md)
 - [Milestone 2 – Software Design & Engineering](writeups/milestone2.md)
 - [Milestone 3 – Algorithms & Data Structures](writeups/milestone3.md)
 - [Milestone 4 – Testing & Deployment](writeups/milestone4.md)
