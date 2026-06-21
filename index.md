@@ -4,8 +4,15 @@ title: CS499 Capstone Portfolio – Mark
 ---
 
 # ** CS499 Computer Science Capstone Portfolio **
-Welcome to my capstone portfolio for the Computer Science program at Southern New Hampshire University (SNHU).  
-This site showcases the evolution of my work from earlier coursework into a fully enhanced, production‑ready software artifact.
+## Welcome
+
+This portfolio represents the work I completed for the SNHU Computer Science program and the CS499 capstone. Over the past several years I’ve built up a mix of practical experience, academic projects, and real problem‑solving skills, and this capstone project pulls all of that together. What started as a small CRUD module eventually grew into a full stack MongoDB management environment with a web interface, a SQL‑to‑Mongo translation engine, and a complete database management layer.
+
+The pages in this portfolio walk through each enhancement, the decisions behind them, and the skills I developed along the way. If you’d like a deeper look at my overall experience in the program, the challenges I worked through, and how this project reflects my growth as a developer, you can read my full professional self‑assessment below.
+
+**[Read the full reflection →](writeups/reflection.md)**
+
+---
 
 The project centers on extending a CRUD‑based Python application into a **full MongoDB management API**, complete with:
 - A FastAPI‑powered Swagger UI
