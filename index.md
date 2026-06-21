@@ -29,6 +29,7 @@ The foundation for this project originated in CS340 (Client/Server Development),
 You can view the original artifact here:
 
 - **[AAC_CRUD_Operations.py](AAC_CRUD_Operations.txt)**
+- **[SwaggerUI_original.py](SwaggerUI_original.txt)**
 
 ---
 
