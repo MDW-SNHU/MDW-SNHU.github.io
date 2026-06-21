@@ -11,3 +11,7 @@ title: Mark Woodford - SNHU
 description: SNHU Computer Science Capstone - CS-499
 
 show_downloads: false
+
+include:
+  - assets/css/style.css
+
