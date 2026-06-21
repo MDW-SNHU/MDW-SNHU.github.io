@@ -3,7 +3,7 @@ layout: default
 title: CS499 Capstone Portfolio – Mark
 ---
 
-# **CS499 Computer Science Capstone Portfolio**
+# ** CS499 Computer Science Capstone Portfolio **
 Welcome to my capstone portfolio for the Computer Science program at Southern New Hampshire University (SNHU).  
 This site showcases the evolution of my work from earlier coursework into a fully enhanced, production‑ready software artifact.
 
@@ -16,14 +16,14 @@ The project centers on extending a CRUD‑based Python application into a **full
 
 ---
 
-## **📂 Project Repository**
+## ** Project Repository **
 The full project source code is available on GitHub:
 
-👉 **[CS499 Final Project Repository](YOUR_GITHUB_REPO_URL_HERE)**
+ **[CS499 Final Project Repository](https://github.com/MDW-SNHU/CS499)**
 
 ---
 
-## **🧩 Original Artifact**
+## ** Original Artifacts **
 The foundation for this project originated in CS340 (Client/Server Development), where I built a CRUD interface for MongoDB.
 
 You can view the original artifact here:
@@ -32,7 +32,7 @@ You can view the original artifact here:
 
 ---
 
-## **🚀 Enhancement 1 – Software Design & Engineering**
+## ** Enhancement 1 – Software Design & Engineering **
 The first major enhancement was the creation of a **web‑based Swagger UI** that exposes the MongoManager API.  
 This interface supports:
 - Authentication  
@@ -47,7 +47,7 @@ View the artifact:
 
 ---
 
-## **🧠 Enhancement 2 – Algorithms & Data Structures**
+## ** Enhancement 2 – Algorithms & Data Structures **
 This enhancement introduces a SQL‑to‑Mongo translation engine that:
 - Parses SQL‑like input  
 - Converts it into MongoDB query structures  
@@ -59,14 +59,14 @@ Artifact:
 
 ---
 
-## **🎥 Milestone 1 – Code Review**
+## ** Milestone 1 – Code Review **
 A full video walkthrough of the original artifact and planned enhancements:
 
 [Watch on YouTube](https://www.youtube.com/watch?v=0MhQrzJqnXc)
 
 ---
 
-## **📝 Write‑ups & Documentation**
+## ** Write‑ups & Documentation **
 Each milestone includes a detailed write‑up describing the design decisions, improvements, and testing strategies.
 
 - [Milestone 1 – Code Review](writeups/milestone1.md)
@@ -77,7 +77,7 @@ Each milestone includes a detailed write‑up describing the design decisions, i
 
 ---
 
-## **📦 Additional Artifacts**
+## ** Additional Artifacts **
 All supporting text‑based artifacts used in this project:
 
 - [MongoManager.txt](MongoManager.txt)  
@@ -86,7 +86,7 @@ All supporting text‑based artifacts used in this project:
 
 ---
 
-## **📫 Contact**
+## ** Contact **
 If you have questions about the project or implementation details, feel free to reach out through GitHub.
 
 
