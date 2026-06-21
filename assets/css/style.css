@@ -1,8 +1,14 @@
+/* Center the entire page content */
+body {
+    display: flex;
+    justify-content: center;
+}
+
 /* Widen main content area for GitHub Pages themes */
 .main-content,
 .page-content,
 .wrapper {
     max-width: 1100px !important;
-    width: 90% !important;
+    width: 80% !important;
     margin: 0 auto !important;
 }
