@@ -1,0 +1,10 @@
+/* Widen the main content area */
+.main-content {
+    max-width: 1100px !important;
+    margin: 0 auto;
+}
+
+/* In case the theme uses .wrapper instead of .main-content */
+.wrapper {
+    max-width: 1100px !important;
+}
