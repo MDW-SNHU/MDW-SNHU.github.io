@@ -40,6 +40,13 @@ You can view the original artifact here:
 
 ---
 
+## ** Milestone 1 – Code Review **
+A full video walkthrough of the original artifact and planned enhancements:
+
+[Watch on YouTube](https://www.youtube.com/watch?v=0MhQrzJqnXc)
+
+---
+
 ## ** Enhancement 1 – Software Design & Engineering **
 The first major enhancement was the creation of a **web‑based Swagger UI** that exposes the MongoManager API.  
 This interface supports:
@@ -64,13 +71,6 @@ This enhancement introduces a SQL‑to‑Mongo translation engine that:
 Artifact:
 
 - **[SQLtoMongo.py](SQLtoMongo.txt)**
-
----
-
-## ** Milestone 1 – Code Review **
-A full video walkthrough of the original artifact and planned enhancements:
-
-[Watch on YouTube](https://www.youtube.com/watch?v=0MhQrzJqnXc)
 
 ---
 
