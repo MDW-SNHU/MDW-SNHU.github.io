@@ -1,7 +1,7 @@
 /* Center the entire page content */
 body {
-    display: flex;
-    justify-content: center;
+    display: flex !important;
+    justify-content: center !important;
 }
 
 /* Widen main content area for GitHub Pages themes */
