@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CS499 Capstone Portfolio – Mark
+title: SNHU CS499 Capstone Portfolio – Mark Woodford
 ---
 
 # ** CS499 Computer Science Capstone Portfolio **
